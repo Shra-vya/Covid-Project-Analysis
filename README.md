@@ -46,11 +46,11 @@ Built interactive dashboards in Tableau including:
 4) Time-series trends
 
 ## Skills
-SQL (Joins, Aggregations, CTEs, Window Functions)
-Data Cleaning (handling nulls, formatting)
-Data Visualization (Tableau dashboards)
-Analytical Thinking
-Data Transformation
+SQL (Joins, Aggregations, CTEs, Window Functions)| 
+Data Cleaning (handling nulls, formatting)| 
+Data Visualization (Tableau dashboards)| 
+Analytical Thinking| 
+Data Transformation| 
 
 ## Results & Business Recommendations
 Key Insights:
