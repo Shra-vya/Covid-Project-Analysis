@@ -1,7 +1,7 @@
 # Covid-Project-Analysis
 COVID-19 Data Analysis | SQL (CTE, Window Functions) | Tableau Dashboard | Healthcare Analytics
 
-Executive Summary
+## Executive Summary
 
 This project analyzes global COVID-19 data to identify trends in infection rates, death percentages, and vaccination progress across countries and continents.
 
