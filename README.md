@@ -23,27 +23,27 @@ Organizations and policymakers need a clear understanding of:
 
 Without structured analysis, raw data makes it difficult to:
 
-Identify high-risk regions
-Track trends efficiently
-Make timely decisions
+1) Identify high-risk regions
+2) Track trends efficiently
+3) Make timely decisions
 
 This project addresses these challenges by transforming raw COVID-19 data into actionable insights.
 
 ## Methodology
-->Cleaned and prepared raw CSV data using Google Sheets
-->Imported and transformed data in PostgreSQL
+1) Cleaned and prepared raw CSV data using Google Sheets
+2) Imported and transformed data in PostgreSQL
 
 Performed:
-->Joins between datasets
-->Aggregations (SUM, MAX)
-->CTEs for structured queries
-->Window functions for rolling vaccination totals
+1) Joins between datasets
+2) Aggregations (SUM, MAX)
+3) CTEs for structured queries
+4) Window functions for rolling vaccination totals
 
 Built interactive dashboards in Tableau including:
-->KPI summary (cases, deaths, %)
-->Continent-level comparisons
-->Geographic infection map
-->Time-series trends
+1) KPI summary (cases, deaths, %)
+2) Continent-level comparisons
+3) Geographic infection map
+4) Time-series trends
 
 ## Skills
 SQL (Joins, Aggregations, CTEs, Window Functions)
@@ -54,17 +54,17 @@ Data Transformation
 
 ## Results & Business Recommendations
 Key Insights:
-1)Certain regions show significantly higher infection rates relative to population
-2)Death percentages vary across continents, indicating differences in healthcare response
-3)Vaccination rollout trends highlight uneven progress across countries
+1) Certain regions show significantly higher infection rates relative to population
+2) Death percentages vary across continents, indicating differences in healthcare response
+3) Vaccination rollout trends highlight uneven progress across countries
 
 Recommendations:
-1)Prioritize resources for high infection-rate regions
-2)Monitor time-based trends to anticipate future spikes
-3)Use vaccination trend analysis to optimize distribution strategies
+1) Prioritize resources for high infection-rate regions
+2) Monitor time-based trends to anticipate future spikes
+3) Use vaccination trend analysis to optimize distribution strategies
 
 ## Next Steps
-1)Integrate real-time or updated datasets for continuous monitoring
-2)Include demographic-level analysis (age, density, etc.)
-3)Enhance dashboard interactivity for deeper filtering
-4)Address limitations such as missing or inconsistent data values
+1) Integrate real-time or updated datasets for continuous monitoring
+2) Include demographic-level analysis (age, density, etc.)
+3) Enhance dashboard interactivity for deeper filtering
+4) Address limitations such as missing or inconsistent data values
